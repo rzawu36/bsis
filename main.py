@@ -148,13 +148,14 @@ for occurence_list in list_of_occurrences:
     counter += 1
     print("\n")
 
+print ("KULTURA - SPORT - POLITIKA")
 for number in probabilities:
     print (math.log(number))
 
 index = probabilities.index(max(probabilities)) + 1
 if index == 1:
-    print ("Program misli da je kultura")
+    print ("klasa: KULTURA")
 elif index == 2:
-    print ("Program misli da je sport u pitanju")
+    print ("klasa: SPORT")
 elif index == 3:
-    print ("Program misli da je politika u pitanju")
+    print ("klasa: POLITIKA")
