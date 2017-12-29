@@ -122,23 +122,48 @@ for key in text_dict:
         spojen_text_klasa += text + ' '
     klasni_tekstovi.append(spojen_text_klasa)
 
+#ova lista se popunjava tako sto se racunaju entropije
+known_words = ["reziser", "reditelj", "delo", "slikar", "pisao", "dela", "umetniku", "nedokucivi", "ideal", "pesnik", "pise", "istoricar", "impresionistickom", "umetnosti", "kustosi",
+               "modeli", "feminizam", "muzeju", "studio", "izlozba", "kosarkas", "utakmicu", "utakmica", "plej-of", "jokic", "bek", "partije", "sutu", "plasman", "cetvrtini", "branioca", "kandidaturu", "kazna",
+               "srbin", "izabrao", "rekorda", "fudbaler", "karijera", "karijeru", "strucno", "vece", "kupljen", "najskuplje", "odluke", "ime", "neozbiljno", "protiv", "igra",
+               "izvesnije", "direktor", "derbi", "izbori", "plati", "kauciju", "talenat", "stranke", "izborni", "glasanje", "birackog", "mesta", "mesto", "stranka",
+               "proces", "birackih", "materijal", "odsto", "sns", "sps", "srs", "js", "grupa", "gradjana", "takmici", "skupstinu", "skupstina", "lista", "opstina",
+               "opstine", "politickih", "partija", "tenderima", "kosovo", "ratne", "zlocin", "ratni", "pokret", "partnerstvo", "izborima"]
 
-list_of_occurrences = []
-for text in klasni_tekstovi:
-    occurence_list = []
-    for word in set(splitted_input):
-        value = 0
-        for rec in text.split():
-            if word == rec:
-                value += 1
-        occurence_list.append(value)
-    list_of_occurrences.append(occurence_list)
+occured_known_words = []
+for word in set(known_words):
+    for word1 in set(splitted_input):
+        if word == word1:
+            occured_known_words.append(word1)
+
+print (occured_known_words)
+
+#list of words moze da bude i set(splitted_input)
+list_of_words = occured_known_words
+
+
+def get_list_of_occurences(list_of_words):
+    list_of_occurrences = []
+    for text in klasni_tekstovi:
+        occurence_list = []
+        for word in list_of_words:
+            value = 0
+            for rec in text.split():
+                if word == rec:
+                    value += 1
+            occurence_list.append(value)
+        list_of_occurrences.append(occurence_list)
+    return list_of_occurrences
+
+
+list_of_occurences = get_list_of_occurences(list_of_words)
 
 
 probabilities = []
 
+
 counter = 0
-for occurence_list in list_of_occurrences:
+for occurence_list in list_of_occurences:
     prob = klass_probability[counter]
     print (prob)
     for occurence in occurence_list:
