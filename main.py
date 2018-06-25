@@ -48,7 +48,7 @@ list_of_known_words = sorted(list_of_entropies, key=lambda word: word.entropy, r
 
 list_of_all_word_content = []
 
-for x in +list_of_known_words:
+for x in list_of_known_words:
     list_of_all_word_content.append(x.content)
     print(x.content)
 
