@@ -2,8 +2,298 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59168b84-6913-4831-abea-7233d5cf505c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bezbednost.iml" afterPath="$PROJECT_DIR$/.idea/Bezbednost.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bsis_textovi/kultura.txt" afterPath="$PROJECT_DIR$/bsis_textovi/kultura.txt" />
+      <change beforePath="$PROJECT_DIR$/bsis_textovi/politika.txt" afterPath="$PROJECT_DIR$/bsis_textovi/politika.txt" />
+      <change beforePath="$PROJECT_DIR$/bsis_textovi/sport.txt" afterPath="$PROJECT_DIR$/bsis_textovi/sport.txt" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/Python-ast.h" afterPath="$PROJECT_DIR$/venv/Include/Python-ast.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/Python.h" afterPath="$PROJECT_DIR$/venv/Include/Python.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/abstract.h" afterPath="$PROJECT_DIR$/venv/Include/abstract.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/accu.h" afterPath="$PROJECT_DIR$/venv/Include/accu.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/asdl.h" afterPath="$PROJECT_DIR$/venv/Include/asdl.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/ast.h" afterPath="$PROJECT_DIR$/venv/Include/ast.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/bitset.h" afterPath="$PROJECT_DIR$/venv/Include/bitset.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/bltinmodule.h" afterPath="$PROJECT_DIR$/venv/Include/bltinmodule.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/boolobject.h" afterPath="$PROJECT_DIR$/venv/Include/boolobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/bytearrayobject.h" afterPath="$PROJECT_DIR$/venv/Include/bytearrayobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/bytes_methods.h" afterPath="$PROJECT_DIR$/venv/Include/bytes_methods.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/bytesobject.h" afterPath="$PROJECT_DIR$/venv/Include/bytesobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/cellobject.h" afterPath="$PROJECT_DIR$/venv/Include/cellobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/ceval.h" afterPath="$PROJECT_DIR$/venv/Include/ceval.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/classobject.h" afterPath="$PROJECT_DIR$/venv/Include/classobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/code.h" afterPath="$PROJECT_DIR$/venv/Include/code.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/codecs.h" afterPath="$PROJECT_DIR$/venv/Include/codecs.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/compile.h" afterPath="$PROJECT_DIR$/venv/Include/compile.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/complexobject.h" afterPath="$PROJECT_DIR$/venv/Include/complexobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/datetime.h" afterPath="$PROJECT_DIR$/venv/Include/datetime.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/descrobject.h" afterPath="$PROJECT_DIR$/venv/Include/descrobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/dictobject.h" afterPath="$PROJECT_DIR$/venv/Include/dictobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/dtoa.h" afterPath="$PROJECT_DIR$/venv/Include/dtoa.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/dynamic_annotations.h" afterPath="$PROJECT_DIR$/venv/Include/dynamic_annotations.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/enumobject.h" afterPath="$PROJECT_DIR$/venv/Include/enumobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/errcode.h" afterPath="$PROJECT_DIR$/venv/Include/errcode.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/eval.h" afterPath="$PROJECT_DIR$/venv/Include/eval.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/fileobject.h" afterPath="$PROJECT_DIR$/venv/Include/fileobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/fileutils.h" afterPath="$PROJECT_DIR$/venv/Include/fileutils.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/floatobject.h" afterPath="$PROJECT_DIR$/venv/Include/floatobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/frameobject.h" afterPath="$PROJECT_DIR$/venv/Include/frameobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/funcobject.h" afterPath="$PROJECT_DIR$/venv/Include/funcobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/genobject.h" afterPath="$PROJECT_DIR$/venv/Include/genobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/graminit.h" afterPath="$PROJECT_DIR$/venv/Include/graminit.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/grammar.h" afterPath="$PROJECT_DIR$/venv/Include/grammar.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/import.h" afterPath="$PROJECT_DIR$/venv/Include/import.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/intrcheck.h" afterPath="$PROJECT_DIR$/venv/Include/intrcheck.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/iterobject.h" afterPath="$PROJECT_DIR$/venv/Include/iterobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/listobject.h" afterPath="$PROJECT_DIR$/venv/Include/listobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/longintrepr.h" afterPath="$PROJECT_DIR$/venv/Include/longintrepr.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/longobject.h" afterPath="$PROJECT_DIR$/venv/Include/longobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/marshal.h" afterPath="$PROJECT_DIR$/venv/Include/marshal.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/memoryobject.h" afterPath="$PROJECT_DIR$/venv/Include/memoryobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/metagrammar.h" afterPath="$PROJECT_DIR$/venv/Include/metagrammar.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/methodobject.h" afterPath="$PROJECT_DIR$/venv/Include/methodobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/modsupport.h" afterPath="$PROJECT_DIR$/venv/Include/modsupport.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/moduleobject.h" afterPath="$PROJECT_DIR$/venv/Include/moduleobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/namespaceobject.h" afterPath="$PROJECT_DIR$/venv/Include/namespaceobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/node.h" afterPath="$PROJECT_DIR$/venv/Include/node.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/object.h" afterPath="$PROJECT_DIR$/venv/Include/object.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/objimpl.h" afterPath="$PROJECT_DIR$/venv/Include/objimpl.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/odictobject.h" afterPath="$PROJECT_DIR$/venv/Include/odictobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/opcode.h" afterPath="$PROJECT_DIR$/venv/Include/opcode.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/osdefs.h" afterPath="$PROJECT_DIR$/venv/Include/osdefs.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/osmodule.h" afterPath="$PROJECT_DIR$/venv/Include/osmodule.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/parsetok.h" afterPath="$PROJECT_DIR$/venv/Include/parsetok.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/patchlevel.h" afterPath="$PROJECT_DIR$/venv/Include/patchlevel.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pgen.h" afterPath="$PROJECT_DIR$/venv/Include/pgen.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pgenheaders.h" afterPath="$PROJECT_DIR$/venv/Include/pgenheaders.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/py_curses.h" afterPath="$PROJECT_DIR$/venv/Include/py_curses.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyarena.h" afterPath="$PROJECT_DIR$/venv/Include/pyarena.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyatomic.h" afterPath="$PROJECT_DIR$/venv/Include/pyatomic.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pycapsule.h" afterPath="$PROJECT_DIR$/venv/Include/pycapsule.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyconfig.h" afterPath="$PROJECT_DIR$/venv/Include/pyconfig.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyctype.h" afterPath="$PROJECT_DIR$/venv/Include/pyctype.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pydebug.h" afterPath="$PROJECT_DIR$/venv/Include/pydebug.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pydtrace.h" afterPath="$PROJECT_DIR$/venv/Include/pydtrace.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyerrors.h" afterPath="$PROJECT_DIR$/venv/Include/pyerrors.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyexpat.h" afterPath="$PROJECT_DIR$/venv/Include/pyexpat.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyfpe.h" afterPath="$PROJECT_DIR$/venv/Include/pyfpe.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pygetopt.h" afterPath="$PROJECT_DIR$/venv/Include/pygetopt.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyhash.h" afterPath="$PROJECT_DIR$/venv/Include/pyhash.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pylifecycle.h" afterPath="$PROJECT_DIR$/venv/Include/pylifecycle.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pymacconfig.h" afterPath="$PROJECT_DIR$/venv/Include/pymacconfig.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pymacro.h" afterPath="$PROJECT_DIR$/venv/Include/pymacro.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pymath.h" afterPath="$PROJECT_DIR$/venv/Include/pymath.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pymem.h" afterPath="$PROJECT_DIR$/venv/Include/pymem.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pyport.h" afterPath="$PROJECT_DIR$/venv/Include/pyport.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pystate.h" afterPath="$PROJECT_DIR$/venv/Include/pystate.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pystrcmp.h" afterPath="$PROJECT_DIR$/venv/Include/pystrcmp.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pystrhex.h" afterPath="$PROJECT_DIR$/venv/Include/pystrhex.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pystrtod.h" afterPath="$PROJECT_DIR$/venv/Include/pystrtod.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pythonrun.h" afterPath="$PROJECT_DIR$/venv/Include/pythonrun.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pythread.h" afterPath="$PROJECT_DIR$/venv/Include/pythread.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/pytime.h" afterPath="$PROJECT_DIR$/venv/Include/pytime.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/rangeobject.h" afterPath="$PROJECT_DIR$/venv/Include/rangeobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/setobject.h" afterPath="$PROJECT_DIR$/venv/Include/setobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/sliceobject.h" afterPath="$PROJECT_DIR$/venv/Include/sliceobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/structmember.h" afterPath="$PROJECT_DIR$/venv/Include/structmember.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/structseq.h" afterPath="$PROJECT_DIR$/venv/Include/structseq.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/symtable.h" afterPath="$PROJECT_DIR$/venv/Include/symtable.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/sysmodule.h" afterPath="$PROJECT_DIR$/venv/Include/sysmodule.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/token.h" afterPath="$PROJECT_DIR$/venv/Include/token.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/traceback.h" afterPath="$PROJECT_DIR$/venv/Include/traceback.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/tupleobject.h" afterPath="$PROJECT_DIR$/venv/Include/tupleobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/typeslots.h" afterPath="$PROJECT_DIR$/venv/Include/typeslots.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/ucnhash.h" afterPath="$PROJECT_DIR$/venv/Include/ucnhash.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/unicodeobject.h" afterPath="$PROJECT_DIR$/venv/Include/unicodeobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/warnings.h" afterPath="$PROJECT_DIR$/venv/Include/warnings.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/weakrefobject.h" afterPath="$PROJECT_DIR$/venv/Include/weakrefobject.h" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/__future__.py" afterPath="$PROJECT_DIR$/venv/Lib/__future__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_bootlocale.py" afterPath="$PROJECT_DIR$/venv/Lib/_bootlocale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_collections_abc.py" afterPath="$PROJECT_DIR$/venv/Lib/_collections_abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_dummy_thread.py" afterPath="$PROJECT_DIR$/venv/Lib/_dummy_thread.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" afterPath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/base64.py" afterPath="$PROJECT_DIR$/venv/Lib/base64.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/bisect.py" afterPath="$PROJECT_DIR$/venv/Lib/bisect.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/codecs.py" afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/collections/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/collections/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/collections/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/collections/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/copy.py" afterPath="$PROJECT_DIR$/venv/Lib/copy.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/copyreg.py" afterPath="$PROJECT_DIR$/venv/Lib/copyreg.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1125.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1125.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp273.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp273.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp65001.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp65001.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_t.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_t.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/kz1048.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/kz1048.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/oem.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/oem.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/enum.py" afterPath="$PROJECT_DIR$/venv/Lib/enum.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/fnmatch.py" afterPath="$PROJECT_DIR$/venv/Lib/fnmatch.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/functools.py" afterPath="$PROJECT_DIR$/venv/Lib/functools.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/genericpath.py" afterPath="$PROJECT_DIR$/venv/Lib/genericpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/hashlib.py" afterPath="$PROJECT_DIR$/venv/Lib/hashlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/heapq.py" afterPath="$PROJECT_DIR$/venv/Lib/heapq.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/hmac.py" afterPath="$PROJECT_DIR$/venv/Lib/hmac.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/imp.py" afterPath="$PROJECT_DIR$/venv/Lib/imp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap_external.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap_external.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/machinery.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/machinery.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/util.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/util.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/io.py" afterPath="$PROJECT_DIR$/venv/Lib/io.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/keyword.py" afterPath="$PROJECT_DIR$/venv/Lib/keyword.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/linecache.py" afterPath="$PROJECT_DIR$/venv/Lib/linecache.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/locale.py" afterPath="$PROJECT_DIR$/venv/Lib/locale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/ntpath.py" afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/operator.py" afterPath="$PROJECT_DIR$/venv/Lib/operator.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/os.py" afterPath="$PROJECT_DIR$/venv/Lib/os.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/posixpath.py" afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/random.py" afterPath="$PROJECT_DIR$/venv/Lib/random.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/re.py" afterPath="$PROJECT_DIR$/venv/Lib/re.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/reprlib.py" afterPath="$PROJECT_DIR$/venv/Lib/reprlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/rlcompleter.py" afterPath="$PROJECT_DIR$/venv/Lib/rlcompleter.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/shutil.py" afterPath="$PROJECT_DIR$/venv/Lib/shutil.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-38.2.4.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-38.2.4.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.30.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.30.0.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_compile.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_compile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_constants.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_constants.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_parse.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/stat.py" afterPath="$PROJECT_DIR$/venv/Lib/stat.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/struct.py" afterPath="$PROJECT_DIR$/venv/Lib/struct.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tarfile.py" afterPath="$PROJECT_DIR$/venv/Lib/tarfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tempfile.py" afterPath="$PROJECT_DIR$/venv/Lib/tempfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/token.py" afterPath="$PROJECT_DIR$/venv/Lib/token.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tokenize.py" afterPath="$PROJECT_DIR$/venv/Lib/tokenize.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/types.py" afterPath="$PROJECT_DIR$/venv/Lib/types.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/warnings.py" afterPath="$PROJECT_DIR$/venv/Lib/warnings.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/weakref.py" afterPath="$PROJECT_DIR$/venv/Lib/weakref.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.ps1" afterPath="$PROJECT_DIR$/venv/Scripts/activate.ps1" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" />
+      <change beforePath="$PROJECT_DIR$/venv/tcl/tk8.6/pkgIndex.tcl" afterPath="$PROJECT_DIR$/venv/tcl/tk8.6/pkgIndex.tcl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +303,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Bezbednost$main.coverage" NAME="main Coverage Results" MODIFIED="1514506225744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bezbednost$main.coverage" NAME="main Coverage Results" MODIFIED="1529951611616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="157" column="0" lean-forward="true" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+            <state relative-caret-position="174">
+              <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -29,12 +319,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sport.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <file leaf-file-name="entropy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entropy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="582">
+              <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +334,8 @@
       <file leaf-file-name="kultura.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="719">
+              <caret line="140" column="139" lean-forward="false" selection-start-line="140" selection-start-column="135" selection-end-line="140" selection-end-column="139" />
               <folding />
             </state>
           </provider>
@@ -52,8 +344,18 @@
       <file leaf-file-name="politika.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2023">
-              <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
+            <state relative-caret-position="669">
+              <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sport.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="68" column="333" lean-forward="false" selection-start-line="68" selection-start-column="333" selection-end-line="68" selection-end-column="333" />
               <folding />
             </state>
           </provider>
@@ -73,9 +375,10 @@
       <find>izbori</find>
       <find>pecin</find>
       <find>eki</find>
-      <find>tekst</find>
       <find>koja</find>
       <find>izborim</find>
+      <find>tekst</find>
+      <find>febr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,9 +390,10 @@
         <option value="$PROJECT_DIR$/bsis/kultura.txt" />
         <option value="$PROJECT_DIR$/bsis/politika.txt" />
         <option value="$PROJECT_DIR$/bsis/sport.txt" />
-        <option value="$PROJECT_DIR$/bsis_textovi/sport.txt" />
         <option value="$PROJECT_DIR$/bsis_textovi/politika.txt" />
         <option value="$PROJECT_DIR$/bsis_textovi/kultura.txt" />
+        <option value="$PROJECT_DIR$/bsis_textovi/sport.txt" />
+        <option value="$PROJECT_DIR$/entropy.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -127,7 +431,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="commit&#9;ACTION&#9;CheckinProject&#10;push&#9;ACTION&#9;Vcs.Push&#10;commit &#9;ACTION&#9;CheckinProject&#10;splitv&#9;ACTION&#9;SplitVertically" />
+    <property name="SearchEverywhereHistoryKey" value="push&#9;ACTION&#9;Vcs.Push&#10;commit&#9;ACTION&#9;CheckinProject&#10;commit &#9;ACTION&#9;CheckinProject&#10;splitv&#9;ACTION&#9;SplitVertically" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,9 +459,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/mario/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Bezbednost" />
@@ -193,17 +499,25 @@
       <option name="project" value="LOCAL" />
       <updated>1514152384732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dodate poznate reci">
+      <created>1514506351496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514506351496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1920" height="994" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -211,7 +525,7 @@
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -220,6 +534,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -229,38 +565,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dodato malo u sport" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodato malo u sport" />
+    <MESSAGE value="dodate poznate reci" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodate poznate reci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2346">
+          <caret line="140" column="49" lean-forward="false" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
-          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -268,25 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -294,22 +610,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2380">
+          <caret line="140" column="49" lean-forward="false" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -318,9 +625,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
-          <folding />
+        <state relative-caret-position="1649">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -328,15 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -347,14 +651,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -362,15 +658,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
-          <folding />
+        <state relative-caret-position="2023">
+          <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -381,14 +682,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -396,15 +689,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
-          <folding />
+        <state relative-caret-position="2023">
+          <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -422,7 +720,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
           <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="87" selection-end-line="143" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="144" lean-forward="false" selection-start-line="140" selection-start-column="144" selection-end-line="140" selection-end-column="144" />
         </state>
       </provider>
     </entry>
@@ -430,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2448">
           <caret line="144" column="92" lean-forward="false" selection-start-line="144" selection-start-column="87" selection-end-line="144" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -456,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,38 +920,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/mario/venv/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="1567">
+          <caret line="1667" column="0" lean-forward="false" selection-start-line="1667" selection-start-column="0" selection-end-line="1667" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/politika.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="73" lean-forward="false" selection-start-line="119" selection-start-column="73" selection-end-line="119" selection-end-column="73" />
+        <state relative-caret-position="669">
+          <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsis_textovi/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="68" column="333" lean-forward="false" selection-start-line="68" selection-start-column="333" selection-end-line="68" selection-end-column="333" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bsis_textovi/kultura.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="719">
+          <caret line="140" column="139" lean-forward="false" selection-start-line="140" selection-start-column="135" selection-end-line="140" selection-end-column="139" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entropy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="157" column="0" lean-forward="true" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+        <state relative-caret-position="174">
+          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
